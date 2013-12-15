@@ -5,7 +5,7 @@ Description
 -----------
 
 RequireJs Examples/Plugins (with code comments to explain how everything works).
-See a post related to this repo: http://integralist.co.uk/post/11705798780/beginners-guide-to-amd-and-requirejs
+See a post related to this repo: http://www.integralist.co.uk/posts/beginners-guide-to-amd-and-requirejs/
 
 Items
 -----------
